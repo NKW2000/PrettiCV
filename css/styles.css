@@ -1,0 +1,157 @@
+body {
+    text-align: center;
+    margin: 0;    
+    background-color: #F7EFE5;
+}
+
+.top-section {
+    background-color: #C3ACD0;
+}
+
+
+.mount {
+    width: 500px;
+    margin: auto;
+}
+
+.middle-section {
+margin: auto;
+width: 60%;
+}
+
+.bottom-p {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Delius', cursive;
+    
+}
+
+.profile {
+    padding-top:  100px;
+    padding-bottom: 50px;
+    width: 200px;
+    margin: auto;
+}
+
+
+.cloud {
+    right: 200px;
+    position: absolute;
+    margin: auto;
+}
+
+.cloud2 {
+    top: 80px;
+    left: 200px;
+    position: absolute;
+    margin: auto;
+}
+
+h1 {
+    font-size: 70px;
+    padding-top: 150px;
+    margin: 0;
+    color: #F7EFE5;
+    font-family: 'Merienda One', cursive;
+}
+
+h2 {
+    margin: 0;
+    font-size: 50px;
+    color: #3D1766;
+    font-family: 'Merienda One', cursive;
+    margin-bottom: 100px;
+}
+
+h3 {
+    line-height: 2;
+    color: #582f7d;
+    font-family: 'Delius', cursive;
+    font-size: 30px;
+    text-align: left;
+    margin: auto;
+}
+
+
+
+
+hr {
+
+    border-width: 8px;
+    border-style: dotted;
+    width: 5%;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    color: #C3ACD0;
+    margin-bottom: 200px;
+}
+
+
+.blender-img {
+    margin: auto;
+    width: 200px;
+    float: left;
+    padding-right: 100px;
+}
+
+.unity-img {
+    margin: auto;
+    width: 200px;
+    float: right;
+    padding-left: 100px;
+}
+
+p {
+    line-height: 1.5;
+    color: #512f6f;
+    font-family: 'Delius', cursive;
+    font-size: 30px;
+    text-align: left;
+    margin: auto;
+    margin-bottom: 200px;
+}
+
+.down {
+    background-color: #512f6f;
+    height: 200px;
+    width: 100%;
+}
+
+.telegram {
+    position: relative;
+    top: 50px;
+    right: 50px;
+    font-size: 20px;
+    color: #F7EFE5;
+    text-decoration: none;
+    font-family: 'Delius', cursive;
+}
+
+.facebook {
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+    color: #F7EFE5;
+    text-decoration: none;
+    font-family: 'Delius', cursive;
+}
+
+.gmail {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    font-size: 20px;
+    color: #F7EFE5;
+    text-decoration: none;
+    font-family: 'Delius', cursive;
+}
+
+.info {
+    color: whitesmoke;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
