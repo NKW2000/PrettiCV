@@ -10,7 +10,7 @@ body {
 
 
 .mount {
-    width: 20%;
+    width: 500px;
     margin: auto;
 }
 
@@ -30,7 +30,7 @@ width: 60%;
 .profile {
     padding-top:  100px;
     padding-bottom: 50px;
-    width: 10%;
+    width: 200px;
     margin: auto;
 }
 
@@ -90,15 +90,17 @@ hr {
 
 
 .blender-img {
+    position: relative;
     margin: auto;
-    width: 20%;
+    width: 200px;
     float: left;
     padding-right: 100px;
 }
 
 .unity-img {
+    position: relative;
     margin: auto;
-    width: 20%;
+    width: 200px;
     float: right;
     padding-left: 100px;
 }
